@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<andhrartc>                    
+ <bus> 
+    <busname>cityordinary</busname>    
+    <busnumber>123</busnumber>
+    <startingstation>kazipet</startingstation>
+    <endingstation>warangal</endingstation> 
+    <ticketprice>25</ticketprice>                  
+ </bus> 
+ <bus>
+    <busname>pallevelugu</busname>    
+    <busnumber>456</busnumber>
+    <startingstation>hanamkonda</startingstation>
+    <endingstation>jangaon</endingstation> 
+    <ticketprice>50</ticketprice>
+ </bus>
+ <bus>
+    <busname>express</busname>    
+    <busnumber>789</busnumber>
+    <startingstation>hyderabad</startingstation>
+    <endingstation>warangal</endingstation> 
+    <ticketprice>200</ticketprice>
+ </bus>
+</andhrartc>
